@@ -590,6 +590,17 @@
                  "width":0,
                  "x":144.187960443353,
                  "y":533.297935886374
+                }, 
+                {
+                 "class":"",
+                 "height":53.3297935886374,
+                 "id":19,
+                 "name":"Welcome",
+                 "rotation":0,
+                 "visible":true,
+                 "width":212.00238932767,
+                 "x":238.338089865269,
+                 "y":485.893674918697
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -662,7 +673,7 @@
          "y":0
         }],
  "nextlayerid":60,
- "nextobjectid":19,
+ "nextobjectid":23,
  "orientation":"orthogonal",
  "properties":[
         {
