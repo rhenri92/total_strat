@@ -70,7 +70,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"public\/pdf.html"
+                 "value":"pdf.html"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -118,7 +118,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"public\/web.html"
+                 "value":"web.html"
                 }, 
                 {
                  "name":"openWebsiteClosable",
